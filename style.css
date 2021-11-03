@@ -1,0 +1,21 @@
+* {background-color: white;}
+p {font-size: 1rem;}
+Selectors
+p {
+  background-color: grey;
+
+  color: white;
+
+}
+h1 {
+   font-size: 4rem;
+
+}
+
+#How-to-play {
+   background-color: green;
+
+}
+
+
+.section
